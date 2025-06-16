@@ -16,7 +16,7 @@ Instead of generating vague or random startup prompts, DevBrief provides **actio
 ## Support by upvoting us 
 <a href="https://www.producthunt.com/products/devbrief?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-devbrief" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=976293&theme=light&t=1749651697339" alt="&#0032;DevBrief - One&#0032;Platform&#0044;&#0032;Endless&#0032;SaaS&#0032;Ideas | Product Hunt" style="width: 200; height: 54px;" width="150" height="54" /></a>
 
-[![Peerlist](assets/Launch_SVG_Light.svg)](https://peerlist.io/mrpurrfect/project/devbrief)
+[![Peerlist](assets/peerlist-light1.png)](https://peerlist.io/mrpurrfect/project/devbrief)
 
 ## 🧠 Why DevBrief?
 
